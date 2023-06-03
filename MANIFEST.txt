@@ -1,0 +1,12 @@
+id	filename	md5	size	state
+3eefa637-ec64-42fa-8d0d-c740de106669	3eefa637-ec64-42fa-8d0d-c740de106669/nationwidechildrens.org_biospecimen_diagnostic_slides_ucec.txt	a56119c9bd02b63c653ca5f7bdfe00a1	59474	validated
+43311b81-8006-4b7b-88a2-a5a1252e12ee	43311b81-8006-4b7b-88a2-a5a1252e12ee/nationwidechildrens.org_biospecimen_shipment_portion_ucec.txt	f23f2aff6f2631479657f3d6e94b67b6	64388	validated
+508088eb-2758-4f01-b27a-612d4c1f5e08	508088eb-2758-4f01-b27a-612d4c1f5e08/nationwidechildrens.org_biospecimen_portion_ucec.txt	b7ee1fba3d6ace9ca8f1443b2f6892ea	175425	validated
+79a1acba-c628-45cf-8abf-acc73ae5cdf5	79a1acba-c628-45cf-8abf-acc73ae5cdf5/nationwidechildrens.org_biospecimen_slide_ucec.txt	d3548cd1776a95550ea6bdb0bb9b2d5b	169145	validated
+98e6a925-08fc-4b3b-a808-205029dadc2f	98e6a925-08fc-4b3b-a808-205029dadc2f/nationwidechildrens.org_ssf_tumor_samples_ucec.txt	47c9cba9b6f8dbe3d9b0f815d7be2502	184242	validated
+b850c7fd-47dc-48ab-a679-4e5a304e2822	b850c7fd-47dc-48ab-a679-4e5a304e2822/nationwidechildrens.org_biospecimen_aliquot_ucec.txt	c929832a95d9296345ba106bdb6f692b	1333989	validated
+b8dd2691-f7fd-4d2d-a291-416dbfaa3ebe	b8dd2691-f7fd-4d2d-a291-416dbfaa3ebe/nationwidechildrens.org_biospecimen_sample_ucec.txt	3cbac6ad309becfa200296da7afed6e3	494949	validated
+d1341b4c-0282-421f-acf4-d56c2c85d999	d1341b4c-0282-421f-acf4-d56c2c85d999/nationwidechildrens.org_auxiliary_ucec.txt	86371878c600faedfb835d4175e7721f	74196	validated
+d2e2c74f-93f7-4d9b-9cf1-f6401b1ec297	d2e2c74f-93f7-4d9b-9cf1-f6401b1ec297/nationwidechildrens.org_biospecimen_analyte_ucec.txt	33bad4e0d397d47e534df06c22adb363	842182	validated
+d7682a00-7e5f-4fc9-ae74-cc0e1c15fd20	d7682a00-7e5f-4fc9-ae74-cc0e1c15fd20/nationwidechildrens.org_biospecimen_protocol_ucec.txt	d97b3a915be89d0a4ededb7db1d6d20d	383825	validated
+f1abee77-e640-4b4c-a5fe-e3490db3f379	f1abee77-e640-4b4c-a5fe-e3490db3f379/nationwidechildrens.org_ssf_normal_controls_ucec.txt	c7c2f8faf67a6d175e5cab17e5721ce8	176653	validated
